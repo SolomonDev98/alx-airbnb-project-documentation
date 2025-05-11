@@ -1,0 +1,1 @@
+This describes the functionalities and features for the Airbnb project
